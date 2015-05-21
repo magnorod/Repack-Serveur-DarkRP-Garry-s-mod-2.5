@@ -1,1 +1,3 @@
-<a href="http://www.startyourdev.com" title="Start Your Dev" target="_blank">StarYourDev</a> 
+Si vous souhaitez compléter le repack je vous conseille d'utiliser les outils suivants qui faciliteront la création de nouvelles armes,entités,métiers,etc...
+
+<a href="http://www.thecodingbeast.com/tools" title="The Coding Beast Tools" target="_blank">The Coding Beast Tools</a> 
