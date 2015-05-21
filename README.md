@@ -1,4 +1,0 @@
-# RepackDarkRP Hyperius
-
-
-test
