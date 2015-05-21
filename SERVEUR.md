@@ -1,6 +1,6 @@
-Vous avez juste à télécharger puis extraire le serveur avec Winrar et vous pouvez le lancer directement.
-Le serveur pèse environ 3 Go en compressé et 8 quand vous l'aurez décompréssez
-*le texture pack CSS est déja installé sur le serveur.
+Vous avez juste à télécharger puis extraire le serveur avec Winrar et vous pouvez le lancer directement.<br>
+Le serveur pèse environ 3 Go en compressé et 8 quand vous l'aurez décompréssez.<br>
+*le texture pack CSS est déja installé sur le serveur.<br>
 
 
 
